@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ALIEN_INVASION.iml" filepath="$PROJECT_DIR$/.idea/ALIEN_INVASION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ALIEN_INVASION_PART_2/.idea/ALIEN_INVASION_PART_2.iml" filepath="$PROJECT_DIR$/../ALIEN_INVASION_PART_2/.idea/ALIEN_INVASION_PART_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PROJECT/.idea/PROJECT.iml" filepath="$PROJECT_DIR$/../PROJECT/.idea/PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eric_mathes/.idea/eric_mathes.iml" filepath="$PROJECT_DIR$/../eric_mathes/.idea/eric_mathes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../naman/.idea/naman.iml" filepath="$PROJECT_DIR$/../naman/.idea/naman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project1/.idea/project1.iml" filepath="$PROJECT_DIR$/../project1/.idea/project1.iml" />
+    </modules>
+  </component>
+</project>
